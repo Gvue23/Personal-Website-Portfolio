@@ -34,6 +34,7 @@ header nav ul {
 nav ul {
     display: flex;
     list-style: none;
+    margin-top: -10px;
 }
 
 nav ul a {
@@ -43,6 +44,7 @@ nav ul a {
     padding: 10px;
     margin-left: 60px;
     font-weight: bolder;
+    margin-top: -30px;
 }
 
 nav ul a:hover {
@@ -50,4 +52,183 @@ nav ul a:hover {
     border-radius: 5px;
     color: white;
     transition: 0.4s ease-in-out;
+}
+
+.box2 {
+    background-color: #B09F9F;
+    height: 1200px;
+    width: 99.2%;
+    position: absolute;
+}
+
+.box2 h1 {
+    font-size: 120px;
+    margin-left: 720px;
+    margin-top: 100px;
+    color: #726767;
+    position: absolute;
+}
+
+.box2 h2 {
+    font-size: 50px;
+    margin-top: 400px;
+    margin-left: 350px;
+}
+
+.box2 h3 {
+    font-size: 30px;
+    width: 30%;
+    margin-left: 215px;
+    font-family: monospace;
+}
+
+.box2 h4 {
+    font-size: 30px;
+    width: 30%;
+    font-family: monospace;
+    margin-left: 215px;
+    margin-top: 100px;
+}
+
+.box2 h5 {
+    font-size: 28px;
+    width: 30%;
+    font-family: monospace;
+    margin-left: 1200px;
+    margin-top: -650px;
+}
+
+.box2 h6 {
+    font-size: 50px;
+    margin-left: 1370px;
+    margin-top: -1px;
+}
+
+.box2 p {
+    font-size: 28px;
+    width: 30%;
+    font-family: monospace;
+    margin-left: 1200px;
+    font-weight: 900;
+    margin-top: -110px;
+}
+
+.box2 ul {
+    margin-top: -1px;
+}
+
+.box2 li {
+    font-size: 28px;
+    font-family: monospace;
+    margin-left: 1240px;
+}
+
+[alt~=Odyssey] {
+    margin-left: 890px;
+    height: 180px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+[alt~=Cal] {
+    height: 180px;
+    margin-left: 880px;
+    margin-top: 600px ;
+    position: absolute;
+}
+
+[alt~=Theodore] {
+    height: 300px;
+    margin-left: 860px;
+    margin-top: 800px;
+    position: absolute;
+}
+
+.box3 {
+    height: 970px;
+    background-color: #B09F9F;
+    margin-top: 1200px;
+}
+
+.box3 h1 {
+    font-size: 60px;
+    margin-left: 780px;
+    margin-top: -13px;
+}
+
+.box3 h2 {
+    font-size: 40px;
+    margin-left: 215px;
+    width: 80%;
+    font-family: monospace;
+}
+
+hr {
+    width: 78%;
+    height: 3px;
+    margin-top: 100px;
+    background-color: black;
+    border: solid 1px black;
+}
+
+.footer h3 {
+    margin-top: 60px;
+    width: 20%;
+    font-size: 63px;
+    margin-left: 220px;
+}
+
+.footer ul {
+    list-style: none;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 48%;
+}
+
+.footer ul a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 60px;
+    font-weight: bolder;
+}
+
+.footer ul a:hover {
+    background-color: rgb(205, 175, 175);
+    border-radius: 5px;
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+
+.footer h4 {
+    color: black;
+    margin-left: 1550px;
+    font-size: 63px;
+    margin-top: -235px;
+    width: 10%;
+}
+
+.footer img {
+    height: 90px;
+    margin-left: 110px;
+    margin-top: -30px;
+}
+
+.footer [alt~=Instagram] {
+    margin-left: 1500px;
+}
+
+.footer img:hover  {
+    background-color: rgb(220, 174, 174);
+    border-radius: 5px;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.footer h5 {
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: 170px;
 }
