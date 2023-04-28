@@ -60,31 +60,185 @@ nav ul a:hover {
 
 .box2 {
     background-color: #B09F9F;
-    height: 2000px;
+    height: 800px;
     width: 100%;
 }
 
 .box2 h1 {
     font-size: 120px;
-    margin-left: 720px;
-    margin-top: 100px;
-    color: #726767;
-    position: absolute;
-}
-
-.box3 {
-    background-color: #8F7070;
-    height: 500px;
-    width: 50%;
-    margin-left: 450px;
-    margin-top: -1700px;
-    border-radius: 30px;
+    margin-left: 760px;
+    margin-top: 300px;
+    color: #ffffff;
     position: absolute;
 }
 
 [class~=mySlides] {
-    margin-left: 140px;
-    margin-top: 30px;
-    height: 430px;
+    height: 850px;
 }
 
+.box4 {
+    height: 1270px;
+    width: 100%;
+    background-color: #B09F9F;
+}
+
+.box5 {
+    background-color: antiquewhite;
+    height: 600px;
+    width: 20%;
+    margin-left: 80px;
+    margin-top: -1160px;
+    border-radius: 30px;
+}
+
+.box6 {
+    background-color: antiquewhite;
+    height: 600px;
+    width: 20%;
+    margin-left: 560px;
+    margin-top: -600px;
+    border-radius: 30px;
+}
+
+.box7 {
+    background-color: antiquewhite;
+    height: 600px;
+    width: 20%;
+    margin-left: 1040px;
+    margin-top: -600px;
+    border-radius: 30px;
+}
+
+.box8 {
+    background-color: antiquewhite;
+    height: 600px;
+    width: 20%;
+    margin-left: 1520px;
+    margin-top: -600px;
+    border-radius: 30px;
+}
+
+[alt~=Houses] {
+    height: 600px;
+    border-radius: 30px;
+    width: 100%;
+}
+
+[alt~=Ocean] {
+    height: 600px;
+    border-radius: 30px;
+    width: 100%;
+}
+
+[alt~=Money] {
+    height: 600px;
+    border-radius: 30px;
+    width: 100%;
+}
+
+[alt~=Chess] {
+    height: 600px;
+    border-radius: 30px;
+    width: 100%;
+}
+
+.box5 h1 {
+    margin-top: -150px;
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.box6 h1 {
+    margin-top: -150px;
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.box7 h1 {
+    margin-top: -150px;
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.box8 h1 {
+    margin-top: -150px;
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+hr {
+    width: 92%;
+    height: 3px;
+    margin-top: 80px;
+    background-color: black;
+    border: solid 1px black;
+}
+
+.footer h1 {
+    margin-top: 60px;
+    width: 17%;
+    font-size: 60px;
+    margin-left: 220px;
+}
+
+.footer ul {
+    list-style: none;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 48%;
+}
+
+.footer ul a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 60px;
+    font-weight: bolder;
+}
+
+.footer ul a:hover {
+    background-color: rgb(205, 175, 175);
+    border-radius: 5px;
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+
+.footer h2 {
+    color: black;
+    margin-left: 1550px;
+    font-size: 60px;
+    margin-top: -235px;
+    width: 10%;
+}
+
+.footer img {
+    height: 90px;
+    margin-left: 110px;
+}
+
+.footer [alt~=Instagram] {
+    margin-left: 1500px;
+}
+
+.footer img:hover  {
+    background-color: rgb(220, 174, 174);
+    border-radius: 5px;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.footer h4 {
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: 170px;
+}
