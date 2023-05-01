@@ -1,0 +1,234 @@
+*   {
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.box1 {
+    background-color: #8F7070;
+    height: 120px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+[alt~=Gabriel] {
+    height: 120px;
+    margin-left: 400px;
+    margin-bottom: -50px;
+    position: absolute;
+}
+
+header {
+    width: 100vw;
+    height: 100px;
+    margin-left: -10px;
+}
+
+header nav {
+    max-width: 100%;
+    margin-left: 880px;
+    margin-top: -90px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+    position: absolute;
+}
+
+nav ul a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 60px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+
+nav ul a:hover {
+    background-color: rgb(157, 120, 120);
+    border-radius: 5px;
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+
+.box2 {
+    background-color: #B09F9F;
+    height: 1650px;
+    width: 99.2%;
+    position: absolute;
+}
+
+.box2 h1 {
+    font-size: 120px;
+    margin-left: 720px;
+    margin-top: 100px;
+    color: #726767;
+    position: absolute;
+}
+
+.box2 h2 {
+    font-size: 70px;
+    margin-left: 430px;
+    margin-top: 330px;
+}
+
+.box2 h3 {
+    font-size: 40px;
+    width: 33%;
+    margin-left: 275px;
+}
+
+.box2 h4 {
+    font-size: 70px;
+    width: 100%;
+    margin-left: 1270px;
+    margin-top: -640px;
+}
+
+[alt~=Instagram] {
+    height: 120px;
+    margin-left: 1280px;
+    margin-top: -30px;
+}
+
+[alt~=Twitter] {
+    height: 120px;
+    margin-left: 170px;
+    margin-top: -25px;
+}
+
+.box2 h5 {
+    font-size: 40px;
+    margin-left: 1280px;
+    margin-top: 40px;
+}
+
+.box2 h6 {
+    font-size: 40px;
+    margin-left: 1280px;
+    margin-top: -40px;
+    margin-bottom: -1px;
+}
+
+.box2 p {
+    font-size: 40px;
+    margin-left: 1280px;
+    margin-top: -30px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+  
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+  
+.container {
+    border-radius: 5px;
+    background-color: #8F7070;
+    padding: 20px;
+    width: 72%;
+    margin-left: 275px;
+    margin-top: 100px;
+}
+
+.box3 {
+    background-color: #B09F9F;
+    height: 450px;
+    width: 100%;
+    margin-top: 1650px;
+}
+
+hr {
+    width: 78%;
+    height: 3px;
+    margin-top: 100px;
+    background-color: black;
+    border: solid 1px black;
+}
+
+.footer h3 {
+    margin-top: 60px;
+    width: 20%;
+    font-size: 63px;
+    margin-left: 220px;
+}
+
+.footer ul {
+    list-style: none;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 48%;
+}
+
+.footer ul a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 60px;
+    font-weight: bolder;
+}
+
+.footer ul a:hover {
+    background-color: rgb(205, 175, 175);
+    border-radius: 5px;
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+
+.footer h4 {
+    color: black;
+    margin-left: 1550px;
+    font-size: 63px;
+    margin-top: -235px;
+    width: 10%;
+}
+
+.footer img {
+    height: 90px;
+    margin-left: 110px;
+    margin-top: -30px;
+}
+
+.footer [alt~=Instagram] {
+    margin-left: 1500px;
+}
+
+.footer img:hover  {
+    background-color: rgb(220, 174, 174);
+    border-radius: 5px;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.footer h5 {
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: 140px;
+}
