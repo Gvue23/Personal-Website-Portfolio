@@ -67,7 +67,7 @@ nav ul a:hover {
 
 .box2 h1 {
     font-size: 120px;
-    margin-left: 720px;
+    margin-left: 800px;
     margin-top: 100px;
     color: #726767;
     position: absolute;
@@ -88,13 +88,13 @@ nav ul a:hover {
 .box2 h4 {
     font-size: 70px;
     width: 100%;
-    margin-left: 1270px;
+    margin-left: 1230px;
     margin-top: -640px;
 }
 
 [alt~=Instagram] {
     height: 120px;
-    margin-left: 1280px;
+    margin-left: 1220px;
     margin-top: -30px;
 }
 
@@ -106,20 +106,20 @@ nav ul a:hover {
 
 .box2 h5 {
     font-size: 40px;
-    margin-left: 1280px;
+    margin-left: 1220px;
     margin-top: 40px;
 }
 
 .box2 h6 {
     font-size: 40px;
-    margin-left: 1280px;
+    margin-left: 1220px;
     margin-top: -40px;
     margin-bottom: -1px;
 }
 
 .box2 p {
     font-size: 40px;
-    margin-left: 1280px;
+    margin-left: 1220px;
     margin-top: -30px;
 }
 
