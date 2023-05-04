@@ -60,6 +60,276 @@ nav ul a:hover {
 
 .box2 {
     background-color: #B09F9F;
-    height: 1000px;
+    height: 570px;
+    width: 99.2%;
+    position: absolute;
+}
+
+.box2 h1 {
+    font-size: 120px;
+    margin-left: 800px;
+    margin-top: 100px;
+    color: #726767;
+    position: absolute;
+}
+
+.box2 h2 {
+    font-size: 45px;
+    margin-left: 460px;
+    margin-top: 350px;
+}
+
+.box2 h3 {
+    font-size: 40px;
+    margin-left: 460px;
+    margin-top: -10px;
+}
+
+.box2 h4 {
+    font-size: 40px;
+    margin-left: 1270px;
+    margin-top: -165px;
+}
+
+.box2 h5 {
+    font-size: 40px;
+    margin-left: 1270px;
+    margin-top: -30px;
+}
+
+.box2 h6 {
+    font-size: 35px;
+    margin-left: 1270px;
+    margin-top: -30px;
+}
+
+.box3 {
+    height: 230px;
     width: 100%;
+    background-color: #B09F9F;
+    margin-top: 570px;
+}
+
+.box3 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box3 h3 {
+    font-size: 30px;
+    margin-left: 460px;
+}
+
+.box3 ul li {
+    margin-left: 480px;
+    font-size: 28px;
+}
+
+.box4 {
+    background-color: #B09F9F;
+    height: 360px;
+    margin-top: -33px;
+}
+
+.box4 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box4 h3 {
+    font-size: 30px;
+    margin-left: 460px;
+}
+
+.box4 ul li {
+    margin-left: 480px;
+    font-size: 28px;
+}
+
+.box5 {
+    height: 210px;
+    background-color: #B09F9F;
+    margin-top: -33px;   
+}
+
+.box5 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+    margin-top: 30px;
+}
+
+.box5 ul li {
+    font-size: 28px;
+    margin-left: 480px;
+}
+
+.box6 {
+    background-color: #B09F9F;
+    height: 160px;
+    margin-top: -33px;
+}
+
+.box6 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box6 ul li {
+    font-size: 30px;
+    margin-left: 480px;
+}
+
+.box7 {
+    background-color: #B09F9F;
+    height: 230px;
+    margin-top: -33px;
+}
+
+.box7 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box7 ul li {
+    margin-left: 480px;
+    font-size: 30px;
+}
+
+.box8 {
+    background-color: #B09F9F;
+    height: 200px;
+    margin-top: -33px;
+}
+
+.box8 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box8 ul li {
+    margin-left: 480px;
+    font-size: 30px;
+}
+
+.box9 {
+    background-color: #B09F9F;
+    height: 260px;
+    margin-top: -33px;
+}
+
+.box9 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box9 ul li {
+    margin-left: 480px;
+    font-size: 30px;
+}
+
+.box10 {
+    background-color: #B09F9F;
+    height: 290px;
+    margin-top: -33px;
+}
+
+.box10 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box10 ul li {
+    margin-left: 480px;
+    font-size: 30px;
+}
+
+.box11 {
+    background-color: #B09F9F;
+    height: 270px;
+    margin-top: -33px;
+}
+
+.box11 h2 {
+    font-size: 40px;
+    margin-left: 460px;
+}
+
+.box11 ul li {
+    margin-left: 480px;
+    font-size: 30px;
+}
+
+.footer {
+    background-color: #B09F9F;
+    height: 480px;
+    margin-top: -103px;
+}
+
+hr {
+    width: 78%;
+    height: 3px;
+    margin-top: 100px;
+    background-color: black;
+    border: solid 1px black;
+}
+
+.footer h1 {
+    margin-top: 60px;
+    width: 17%;
+    font-size: 60px;
+    margin-left: 220px;
+}
+
+.footer ul {
+    list-style: none;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 48%;
+}
+
+.footer ul a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 60px;
+    font-weight: bolder;
+}
+
+.footer ul a:hover {
+    background-color: rgb(205, 175, 175);
+    border-radius: 5px;
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+
+.footer h2 {
+    color: black;
+    margin-left: 1550px;
+    font-size: 60px;
+    margin-top: -235px;
+    width: 10%;
+}
+
+.footer img {
+    height: 90px;
+    margin-left: 110px;
+}
+
+.footer [alt~=Instagram] {
+    margin-left: 1500px;
+}
+
+.footer img:hover  {
+    background-color: rgb(220, 174, 174);
+    border-radius: 5px;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.footer h4 {
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: 170px;
 }

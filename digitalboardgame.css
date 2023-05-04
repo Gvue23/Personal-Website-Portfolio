@@ -60,7 +60,7 @@ nav ul a:hover {
 
 .box2 {
     background-color: #B09F9F;
-    height: 2350px;
+    height: 2520px;
     width: 100%;
     position: absolute;
 }
@@ -74,8 +74,7 @@ nav ul a:hover {
 }
 
 iframe {
-    margin-top: 400px;
-    margin-left: 300px;
+    margin-top: 350px;
 }
 
 .box3 {
