@@ -149,7 +149,7 @@ nav ul a:hover {
 }
 
 .box3 {
-    height: 970px;
+    height: 800px;
     background-color: #B09F9F;
     margin-top: 1200px;
 }
@@ -176,24 +176,24 @@ hr {
 }
 
 .footer h3 {
-    margin-top: 60px;
-    width: 20%;
-    font-size: 63px;
+    margin-top: 80px;
+    width: 17%;
+    font-size: 60px;
     margin-left: 220px;
 }
 
 .footer ul {
     list-style: none;
     display: flex;
-    margin-top: 100px;
-    margin-left: 150px;
+    margin-top: -105px;
+    margin-left: 1038px;
     width: 48%;
 }
 
 .footer ul a {
     color: rgb(0, 0, 0);
     text-decoration: none;
-    font-size: 40px;
+    font-size: 30px;
     padding: 10px;
     margin-left: 60px;
     font-weight: bolder;
@@ -207,32 +207,7 @@ hr {
 }
 
 .footer h4 {
-    color: black;
-    margin-left: 1550px;
-    font-size: 63px;
-    margin-top: -235px;
-    width: 10%;
-}
-
-.footer img {
-    height: 90px;
-    margin-left: 110px;
-    margin-top: -30px;
-}
-
-.footer [alt~=Instagram] {
-    margin-left: 1500px;
-}
-
-.footer img:hover  {
-    background-color: rgb(220, 174, 174);
-    border-radius: 5px;
-    color: white;
-    transition: 0.3s ease-in-out;
-}
-
-.footer h5 {
     font-size: 20px;
     margin-left: 900px;
-    margin-top: 170px;
+    margin-top: 130px;
 }
