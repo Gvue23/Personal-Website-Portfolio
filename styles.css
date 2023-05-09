@@ -122,9 +122,11 @@ nav ul a:hover {
     font-size: 80px;
     margin-left: 120px;
     margin-top: 29px;
+}
+
+.box3 h1 a {
+    text-decoration: none;
     color: white;
-    list-style: none;
-    display: flex;
 }
 
 .box3 h1:hover {
@@ -161,6 +163,11 @@ nav ul a:hover {
     color: white;
 }
 
+.box4 h1 a {
+    text-decoration: none;
+    color: white;
+}
+
 .box4 h1:hover {
     background-color: rgb(95, 86, 86);
     border-radius: 5px;
@@ -190,6 +197,11 @@ nav ul a:hover {
     font-size: 80px;
     margin-left: 160px;
     margin-top: 29px;
+    color: white;
+}
+
+.box5 h1 a {
+    text-decoration: none;
     color: white;
 }
 
@@ -223,6 +235,11 @@ nav ul a:hover {
     font-size: 80px;
     margin-left: 150px;
     margin-top: 29px;
+    color: white;
+}
+
+.box6 h1 a {
+    text-decoration: none;
     color: white;
 }
 

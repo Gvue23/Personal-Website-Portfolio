@@ -91,6 +91,11 @@ nav ul a:hover {
     border-radius: 30px;
 }
 
+.box5 h1 a {
+    text-decoration: none;
+    color: white;
+}
+
 .box6 {
     background-color: antiquewhite;
     height: 600px;
@@ -98,6 +103,11 @@ nav ul a:hover {
     margin-left: 560px;
     margin-top: -600px;
     border-radius: 30px;
+}
+
+.box6 h1 a {
+    text-decoration: none;
+    color: white;
 }
 
 .box7 {
@@ -109,6 +119,11 @@ nav ul a:hover {
     border-radius: 30px;
 }
 
+.box7 h1 a {
+    text-decoration: none;
+    color: white;
+}
+
 .box8 {
     background-color: antiquewhite;
     height: 600px;
@@ -116,6 +131,11 @@ nav ul a:hover {
     margin-left: 1520px;
     margin-top: -600px;
     border-radius: 30px;
+}
+
+.box8 h1 a {
+    text-decoration: none;
+    color: white;
 }
 
 [alt~=Houses] {

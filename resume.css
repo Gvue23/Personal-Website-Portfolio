@@ -245,7 +245,7 @@ nav ul a:hover {
 
 .box11 {
     background-color: #B09F9F;
-    height: 270px;
+    height: 260px;
     margin-top: -33px;
 }
 
@@ -259,6 +259,29 @@ nav ul a:hover {
     font-size: 30px;
 }
 
+.box12 {
+    background-color: #B09F9F;
+    height: 120px;
+    margin-top: -30px;
+}
+
+.button {
+    background-color: #8F7070;
+    color: white;
+    width: 13%;
+    height: 60px;
+    margin-left: 860px;
+}
+
+.button h1 a {
+    text-decoration: none;
+    color: white;
+    font-size: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 hr {
     width: 78%;
     height: 3px;
@@ -269,7 +292,7 @@ hr {
 
 .footer {
     background-color: #B09F9F;
-    height: 240px;
+    height: 400px;
     margin-top: -783px;
 }
 
