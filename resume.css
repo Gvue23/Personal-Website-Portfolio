@@ -270,10 +270,28 @@ nav ul a:hover {
     color: white;
     width: 13%;
     height: 60px;
-    margin-left: 860px;
+    margin-left: 640px;
 }
 
 .button h1 a {
+    text-decoration: none;
+    color: white;
+    font-size: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button2 {
+    background-color: #8F7070;
+    color: white;
+    width: 15%;
+    height: 60px;
+    margin-left: 1100px;
+    margin-top: -83px;
+}
+
+.button2 h1 a {
     text-decoration: none;
     color: white;
     font-size: 37px;
