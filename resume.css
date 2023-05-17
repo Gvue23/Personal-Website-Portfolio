@@ -282,6 +282,11 @@ nav ul a:hover {
     align-items: center;
 }
 
+.button:hover {
+    background-color: rgb(188, 142, 142);
+     transition: 0.4s ease-in-out;
+}
+
 .button2 {
     background-color: #8F7070;
     color: white;
@@ -298,6 +303,11 @@ nav ul a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.button2:hover {
+    background-color: rgb(188, 142, 142);
+     transition: 0.4s ease-in-out;
 }
 
 hr {
